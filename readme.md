@@ -5,8 +5,7 @@
 im too stubborn to buy a corne
 
 * Keyboard Maintainer: [Ben Wang](https://github.com/DaPotato69)
-* Hardware Supported: pro micro or any size that works, only works with the dumbass pcb i put on my github because im just too stubborn to buy a legit corne pcb
-* Hardware Availability: couldnt be bothered to put a link lol
+* Hardware Supported: pro micro or any size that works
 
 Make example for this keyboard (after setting up your build environment):
 
@@ -20,4 +19,4 @@ Flashing example for this keyboard:
 
 Enter the bootloader in 3 ways:
 
-press the reset button the the right side of the kb (im using sparkfun rp2040 pro micro idfk what ur using u should know this)
+press the reset button the the right side of the kb (im using sparkfun rp2040 pro micro, instructions vary for different microcontrollers)
